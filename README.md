@@ -19,17 +19,14 @@ lo mejor posible, poder crecer como Full Stack y divertirme programando, porque 
 a ser, si algo te gusta tanto, lo vas a disfrutar siempre. 
 
 LAS TECNOLOGIAS QUE UTILIZO: 💻 
-- Javascript
-- HTML
-- CSS
-- Node JS
-- SQL
-- Sequelize
-- PostgreSQL
-- GitHub
-- Bootstrap
-- React
-- Redux
+<img src="./Images/JavaScript-logo.png" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
+<img src="./Images/React_Native_Logo.png" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
+<img src="./Images/css.png" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
+<img src="./Images/node.jpg" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
+<img src="./Images/postgres.png" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
+<img src="./Images/redux.webp" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
+<img src="./Images/sequelize.png" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
+<img src="./Images/html.png" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
 ---------------------------------------
 CONTACTAME:
 - Conoce más de mí en mi perfil de [LinkedIn](https://www.linkedin.com/in/joaquin-guerrero-728826260/) o
