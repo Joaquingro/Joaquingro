@@ -33,7 +33,7 @@ LAS TECNOLOGIAS QUE UTILIZO: 💻
 
 ---------------------------------------
 CONTACTAME:
-- Conoce más de mí en mi perfil de [LinkedIn](https://www.linkedin.com/in/joaquin-guerrero-728826260/) o
+- Conoce más de mí en mi perfil de [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/joaquin-guerrero-728826260/) o
 escribeme a mi 📫[correo](mailto:joaquinsgro@gmail.com?body=Hola%20Joaquin,%20estoy%20interesado%20en%20contactarte%20por%20este%20proyecto.)
 
 Hasta pronto! 👋
