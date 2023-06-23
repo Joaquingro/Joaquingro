@@ -19,17 +19,21 @@ lo mejor posible, poder crecer como Full Stack y divertirme programando, porque 
 a ser, si algo te gusta tanto, lo vas a disfrutar siempre. 
 
 LAS TECNOLOGIAS QUE UTILIZO: 💻 
-<img src="./Images/JavaScript-logo.png" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
-<img src="./Images/React_Native_Logo.png" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
-<img src="./Images/css.png" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
-<img src="./Images/node.jpg" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
-<img src="./Images/postgres.png" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
-<img src="./Images/redux.webp" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
-<img src="./Images/sequelize.png" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
-<img src="./Images/html.png" alt="Logo" style="width: 5em; height: 5em; object-fit: cover; border-radius: 10em;">
+<br>
+<br>
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](#)
+[![React Native](https://img.shields.io/badge/-React_Native-%2300D8FF?logo=react&logoColor=white&style=for-the-badge)](#)
+[![CSS](https://img.shields.io/badge/-CSS-%231572B6?logo=css3&logoColor=white&style=for-the-badge)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-%23339933?logo=node.js&logoColor=white&style=for-the-badge)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?logo=postgresql&logoColor=white&style=for-the-badge)](#)
+[![Redux](https://img.shields.io/badge/-Redux-%23764ABC?logo=redux&logoColor=white&style=for-the-badge)](#)
+[![Sequelize](https://img.shields.io/badge/-Sequelize-%23853BFA?logo=sequelize&logoColor=white&style=for-the-badge)](#)
+[![HTML](https://img.shields.io/badge/-HTML-%23E34F26?logo=html5&logoColor=white&style=for-the-badge)](#)
+
 ---------------------------------------
 CONTACTAME:
-- Conoce más de mí en mi perfil de [LinkedIn](https://www.linkedin.com/in/joaquin-guerrero-728826260/) o
-escribeme a mi [correo](mailto:joaquinsgro@gmail.com?body=Hola%20Joaquin,%20estoy%20interesado%20en%20contactarte%20por%20este%20proyecto.)
+- Conoce más de mí en mi perfil de [LinkedIn]() [LinkedIn](https://www.linkedin.com/in/joaquin-guerrero-728826260/) o
+escribeme a mi 📫[correo](mailto:joaquinsgro@gmail.com?body=Hola%20Joaquin,%20estoy%20interesado%20en%20contactarte%20por%20este%20proyecto.)
 
 Hasta pronto! 👋
