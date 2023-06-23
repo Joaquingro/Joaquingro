@@ -1,7 +1,7 @@
 Hola! Mi nombre es Joaquin Guerrero 😸
 ------------------------------------
 
-¿Quien soy? 🧔
+¿Quién soy? 🧔
 - Soy un Ingeniero en Sistemas Computacionales y Desarrollador Web Full Stack.
   Siempre me ha apasionado la tecnología, además de los videojuegos y el deporte, encontraba una forma de
   poder aportar a el gran mundo de TI, hasta que conoci la programación, sin duda cambio mi perspectiva de todo y
@@ -32,8 +32,8 @@ LAS TECNOLOGIAS QUE UTILIZO: 💻
 [![HTML](https://img.shields.io/badge/-HTML-%23E34F26?logo=html5&logoColor=white&style=for-the-badge)](#)
 
 ---------------------------------------
-CONTACTAME:
-- Conoce más de mí en mi perfil de [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/joaquin-guerrero-728826260/) o
-escribeme a mi 📫[correo](mailto:joaquinsgro@gmail.com?body=Hola%20Joaquin,%20estoy%20interesado%20en%20contactarte%20por%20este%20proyecto.)
+CONTÁCTAME:
+- Conoce más de mí en mi perfil de [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/joaquin-guerrero-728826260/)
+- Escribeme a mi correo: joaquinsgro@gmail.com
 
 Hasta pronto! 👋
